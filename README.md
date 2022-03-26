@@ -10,7 +10,7 @@
 - ⚡ Fun fact: It works, but I don’t know why😏😂
 
 <p align="left">
-  <img src="https://gpvc.arturio.dev/agent502"/>
+  <img src="https://gpvc.arturio.dev/p-a-i-n-24"/>
 </p>
 <p align="left">
   <a><img src="https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square"/></a>
